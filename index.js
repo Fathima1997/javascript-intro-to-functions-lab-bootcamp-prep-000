@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   var canAnswer = "I love you, too";
   
   if (string.toLowerCase(string) === string) {
-    return cantUnswer;
+    return cantHear;
   }
   else if (string.toUpperCase(string) === string) {
     return canHear;
